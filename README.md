@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-with-html5-and-css-w3VggxbnwG)
+- Live Site URL: [QR code component](https://qr-code-component-ana-lsm.netlify.app)
 
 ## My process
 
